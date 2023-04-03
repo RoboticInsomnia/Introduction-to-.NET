@@ -1,0 +1,15 @@
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\bin\Debug\net7.0\Aprplc.exe
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\bin\Debug\net7.0\Aprplc.deps.json
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\bin\Debug\net7.0\Aprplc.runtimeconfig.json
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\bin\Debug\net7.0\Aprplc.dll
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\bin\Debug\net7.0\Aprplc.pdb
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\obj\Debug\net7.0\Aprplc.csproj.AssemblyReference.cache
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\obj\Debug\net7.0\Aprplc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\obj\Debug\net7.0\Aprplc.AssemblyInfoInputs.cache
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\obj\Debug\net7.0\Aprplc.AssemblyInfo.cs
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\obj\Debug\net7.0\Aprplc.csproj.CoreCompileInputs.cache
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\obj\Debug\net7.0\Aprplc.dll
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\obj\Debug\net7.0\refint\Aprplc.dll
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\obj\Debug\net7.0\Aprplc.pdb
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\obj\Debug\net7.0\Aprplc.genruntimeconfig.cache
+C:\Users\0xOri\OneDrive\Desktop\Aprplc\obj\Debug\net7.0\ref\Aprplc.dll
