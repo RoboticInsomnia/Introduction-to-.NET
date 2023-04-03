@@ -1,6 +1,6 @@
 # Sharp as the letter C.
 
-Learning the framework .NET while working with the programming language of C#. While going through the .NET tutorial, we learned how to create a Hello World program as well.
+Learning the framework .NET while working with the programming language of C#. While going through the .NET tutorial, we learned how to create a Hello World console application.
 
 
 #### What is .NET?
